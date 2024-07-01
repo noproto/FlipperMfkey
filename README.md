@@ -21,10 +21,9 @@ OFW: Available in the App Hub ([Download](https://lab.flipper.net/apps/mfkey)) a
 
 Published (options):
 * [Unleashed repository](https://github.com/xMasterX/all-the-plugins/tree/dev/base_pack/mfkey)
-* [Momentum firmware](https://github.com/Next-Flip/Momentum-Firmware/releases)
-* [Unleashed firmware](https://github.com/DarkFlippers/unleashed-firmware/releases/latest)
-* [RogueMaster firmware](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases/latest)
-  * Built in to every release, you're good to go!
+* [Momentum firmware](https://github.com/Next-Flip/Momentum-Firmware/releases): Built-in to every release
+* [Unleashed firmware](https://github.com/DarkFlippers/unleashed-firmware/releases/latest): Built-in to every release
+* [RogueMaster firmware](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases/latest): Built-in to every release
 
 Manual: Copy the fap/ directory to applications_user/mfkey/ and build it with fbt
 
