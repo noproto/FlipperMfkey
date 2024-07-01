@@ -20,11 +20,9 @@ All cracked nonces are automatically added to your user dictionary, allowing you
 OFW: Available in the App Hub ([Download](https://lab.flipper.net/apps/mfkey)) and distributed by Flipper Devices (https://github.com/flipperdevices/flipperzero-good-faps/tree/dev/mfkey).
 
 Published (options):
-* [Unleashed repository](https://github.com/xMasterX/all-the-plugins/tree/main/apps/Tools_Extra)
-* [FlipC.org](https://flipc.org/noproto/FlipperMfkey?branch=master&root=fap)
-  * Download the FAP at one of the above links then copy the FAP to your Flipper Zero device (using qFlipper or manually copying it to the SD)
+* [Unleashed repository](https://github.com/xMasterX/all-the-plugins/tree/dev/base_pack/mfkey)
+* [Momentum firmware](https://github.com/Next-Flip/Momentum-Firmware/releases)
 * [Unleashed firmware](https://github.com/DarkFlippers/unleashed-firmware/releases/latest)
-  * Use qFlipper to install the build that ends in "e"
 * [RogueMaster firmware](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases/latest)
   * Built in to every release, you're good to go!
 
