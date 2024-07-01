@@ -44,7 +44,7 @@ This was the only function of the Flipper Zero that was [thought to be impossibl
 | Average | 3.4 min |
 | Worst possible (expected) | 6.8 min |
 
-NB: Keys that are already in the system/user dictionary or nonces with already found keys are cracked instantly. This means on average cracking an arbitrary number of nonces from the same reader will take 4.8 minutes (1 unknown key).
+NB: Keys that are already in the system/user dictionary or nonces with already found keys are cracked instantly. This means on average cracking an arbitrary number of nonces from the same reader will take 3.4 minutes (1 unknown key).
 
 Writeup: Coming soon
 
