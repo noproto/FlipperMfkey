@@ -1,6 +1,6 @@
 # Flipper MFKey
 
-<img src="https://github.com/noproto/FlipperMfkey/assets/11845893/475bf66a-2e95-44a8-b884-62f28ca5512f" alt="Dolphin" width="60%" height="60%">
+<img src="https://github.com/noproto/FlipperMfkey/assets/11845893/c10f143b-f8f8-4e20-afb6-f6f2be116f9f" alt="Dolphin" width=25%>
 
 ## What
 This Flipper application ("FAP") cracks Mifare Classic 1K/4K keys on your Flipper Zero. No companion app/desktop needed.
